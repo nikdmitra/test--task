@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 50px auto 0px;
+    width: 800px;
+    height: 600px;
+    background-color: #BBBBBB;
+}
+
+.containerFlex {
+    display: flex;
+    flex-direction: column;
+}
+
+.form {
+    margin-top: 100px;
+}
+
+.summa {
+    margin-bottom: 30px;
+    font-size: 25px;
+    color: indigo;
+    font-family: fantasy;
+}
